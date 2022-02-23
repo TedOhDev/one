@@ -19,7 +19,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand">David's Blog</a>
+          <a class="brand">Ted's Blog</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="home">Home</a></li>

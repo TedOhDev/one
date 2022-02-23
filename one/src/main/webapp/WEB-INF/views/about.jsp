@@ -8,8 +8,12 @@
    <!-- main -->
 
 <div class="hero-unit">
-  <h1>Web Developer '오태양' 입니다.</h1>
-  <p>웹 개발자</p>
+  <h1>Hi i'm Web Developer 'Ted'</h1>
+  <p> 웹 개발자 '테드'<br></p>
+  <h3>Git : <a href="https://github.com/TedOhDev">https://github.com/TedOhDev</a></h3>
+  Visit Ted's Git and trying to know about 'Ted' <br>
+  <h3>Email : TedOhDev@gmail.com</h3>
+  <p>Only contact this email or KaKaoTalk</p>
 </div>
 <!-- main -->
 <!-- footer.jsp -->
