@@ -10,7 +10,7 @@
 <div class="hero-unit">
   <h1>Skills</h1>
 </div>
-	<h1><a href="/board/list">Board [ 게시판 ]</a></h1>
+	<h1><a href="/board/listPageSearch?num=1">Board [ 게시판 ]</a></h1>
 	
 	<!-- 
  include file="board/list.jsp" %> -->
